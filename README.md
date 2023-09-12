@@ -1,5 +1,5 @@
 # :star2: About Me
- :seedling: hello! I am Saebyeol Kim, who is growing for backend developers. <br/>
+ :seedling: hello! I am Saebyeol Kim, who is growing for server developers. <br/>
  :seedling: I am currently working as a first-year developer at SI and SM companies.
 <br/><br/>
 
